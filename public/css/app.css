@@ -1,0 +1,23 @@
+#textFrom {
+    height: 200px;
+    font-size: 30px;
+}
+
+#translation {
+    font-size: 30px;
+    min-height: 135px;
+}
+
+.card-footer {
+    background: white;
+}
+.card-footer.bi {
+    font-size: 30px;
+}
+#translateStar {
+    cursor: pointer !important;
+}
+#translateCopy {
+    cursor: pointer !important;
+}
+
