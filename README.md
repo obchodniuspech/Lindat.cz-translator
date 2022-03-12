@@ -1,0 +1,2 @@
+# Lindat.cz translator
+ 
